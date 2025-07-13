@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import ecdsa
 import hashlib
 import base58
